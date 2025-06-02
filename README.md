@@ -6,7 +6,6 @@
 B-)
 
 <h3 align="left">Technologies:</h3>
-Git
-
-Github (where we are)
+Git | 
+Github (where we are) | 
 Docker
