@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tomasz</h1>
+<h1 align="center">Greetings 👋, I'm Tomasz</h1>
 <h3 align="center">4th year Computer Science and 1st year Robotics and Automation Engineerin student</h3> </p>
 
 <h3 align="left">Programming languages:</h3>
