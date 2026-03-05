@@ -1,19 +1,31 @@
 <h1 align="center">Greetings 👋, I'm Tomasz</h1>
-<h3 align="left">4th year Computer Science on <i> Lublin University of Technology </i> and 1st year on <i> Technical Academy of Informatics in Applied Sciences </i> Robotics and Automation Engineer student</h3> </p>
-<h3 align="left"> Aspiring Backend/Fullstack Developer </h3> </p>
+<h4 align="left">I am a Backend/Full-Stack apiring Developer currently pursuing dual degrees: my 4th year in Computer Science at Lublin University of Technology, and my 1st year in Robotics and Automation Engineering at the Technical Academy of Informatics in Applied Sciences.</h4>
 
-<h3 align="left">Programming languages:</h3>
+<!-- <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p> B-) --> 
+
+</br>
+<h3 align="left">⚙️ Tech Stack:</h3>
+
+<b>Languages:</b> 
 C# v14 |
 Python |
 C++ |
 Swift |
 JavaScript
 
-<!-- <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p> B-) --> 
+<b>Frameworks & Environments:</b>
+.NET
 
-<h3 align="left">Technologies:</h3>
-.NET |
-Git | 
-Github | 
+<b>Tools & DevOps:</b>
 Docker |
-docker-compose
+Docker Compose |
+Git | 
+Github
+
+</br>
+
+<h3>🚀 Currently...</h3>
+
+🔭 I’m currently working on: MEMS project.
+</br>
+🌱 I’m currently learning: .NET and C#.
