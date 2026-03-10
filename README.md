@@ -14,13 +14,14 @@ Swift |
 JavaScript
 
 <b>Frameworks & Environments:</b>
-.NET
+.NET, ASP.NET Core MVC, Razor Pages
 
 <b>Tools & DevOps:</b>
 Docker |
 Docker Compose |
 Git | 
-Github
+Github |
+Github Actions
 
 </br>
 
@@ -28,4 +29,4 @@ Github
 
 🔭 I’m currently working on: MEMS project.
 </br>
-🌱 I’m currently learning: .NET and C#.
+🌱 I’m currently learning: .NET, C# and JavaScript.
