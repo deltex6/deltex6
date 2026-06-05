@@ -14,19 +14,33 @@ Swift |
 JavaScript
 
 <b>Frameworks & Environments:</b>
-.NET, ASP.NET Core MVC, Razor Pages
+
+- C#: .NET | ASP.NET Core MVC | Razor Pages
+
+- Python: PyCharm | Anaconda Navigator
+
+</br>
 
 <b>Tools & DevOps:</b>
 Docker |
 Docker Compose |
 Git | 
 Github |
-Github Actions
+Github Actions |
+
+AI: Github Copilot | Agentic coding | MCP Servers
+
+</br>
+
+<b>Tools & libraries for Python:</b>
+Conda\Pip |
+Numpy |
+imagecodecs |
 
 </br>
 
 <h3>🚀 Currently...</h3>
 
-🔭 I’m currently working on: MEMS project.
+🔭 I’m currently working on: MEMS project and image compression.
 </br>
-🌱 I’m currently learning: .NET, C# and JavaScript.
+🌱 I’m currently learning: .NET, C# and Python.
