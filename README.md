@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋, I'm Tomasz</h1>
-<h4 align="left">I am open to work Backend/Full-Stack Junior Developer currently pursuing dual degrees: my 4th year in Computer Science at Lublin University of Technology, and my 1st year in Robotics and Automation Engineering at the Technical Academy of Informatics in Applied Sciences.</h4>
+<h4 align="left">I am open to work Junior Computer Vision Researcher currently pursuing: 4th year engineering degree in Computer Science at Lublin University of Technology.</h4>
 
 <!-- <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p> B-) --> 
 
@@ -7,10 +7,9 @@
 <h3 align="left">⚙️ Tech Stack:</h3>
 
 <b>Languages:</b> 
-C# v14 |
+C# |
 Python |
 C++ |
-Swift |
 JavaScript
 
 <b>Frameworks & Environments:</b>
@@ -34,6 +33,7 @@ AI: Github Copilot | Agentic coding | MCP Servers
 
 <b>Tools & libraries for Python:</b>
 Conda\Pip |
+Pillow |
 Numpy |
 imagecodecs |
 
