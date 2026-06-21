@@ -41,6 +41,6 @@ imagecodecs |
 
 <h3>🚀 Currently...</h3>
 
-🔭 I’m currently working on: MEMS project and image compression.
+🔭 I’m currently working on: MEMS project, image compression and mobile sorting robot.
 </br>
-🌱 I’m currently learning: .NET, C# and Python.
+🌱 I’m currently learning: .NET/C#, Computer Vision and Python.
